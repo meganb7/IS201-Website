@@ -1,0 +1,38 @@
+.header{
+    padding: 200px;
+    text-align: center;
+    background-image: url(https://static.sciencelearn.org.nz/images/images/000/002/653/original/ELECAR_TIMELINE_ITV_Electric_Cars_GlobeInHand.jpg?1674168547);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h4{
+    padding-left: 15px;
+}
+body{
+    background-color: lightgray;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 40px;
+    color:rgb(51, 125, 199)
+}
+.tableauPlaceholder{
+   padding-left: 100px;
+}
